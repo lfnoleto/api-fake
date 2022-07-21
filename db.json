@@ -1,5 +1,5 @@
 {
-    "contact": [
+    "Historic": [
       {
         "id": "1",
         "data": "02/05/2022",
@@ -28,5 +28,58 @@
         "ramal": 8548,
         "descricao": "ligação de fora"
       }
+    ],
+    "link": [
+      {
+        "id": "1",
+        "data": "02/08/2022",
+        "tefone": 628457524,
+        "ramal": 8548,
+        "descricao": "ligação de fora"
+      },
+      {
+        "id": "2",
+        "data": "02/02/2022",
+        "tefone": 628457524,
+        "ramal": 8542,
+        "descricao": "ligação de fora para consultoria"
+      },
+      {
+        "id": "3",
+        "data": "02/07/2022",
+        "tefone": 628457524,
+        "ramal": 8545,
+        "descricao": "ligação de fora"
+      },
+      {
+        "id": "4",
+        "data": "02/04/2022",
+        "tefone": 628457524,
+        "ramal": 8542,
+        "descricao": "ligação de fora"
+      }
+    ],
+    "contact": [
+      {
+        "id": "2",
+        "name":"João da Silva",
+        "tel": 62845787545
+      },
+      {
+        "id": "3",
+        "name":"Maria da Silva",
+        "tel": 628457524
+      },
+      {
+        "id": "4",
+        "name":"pedro da Silva",
+        "tel": 628457524
+      },
+      {
+        "id": "5",
+        "name":"guilherme da Silva",
+        "tel": 628457524
+      }
+        
     ]
   }
